@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="254.0">DesignPatterns.Decorator.RedShapeDecorator</node>
+    <node x="230.0" y="398.0">Concurrency.SyncAdvanced.Buffer</node>
+    <node x="466.0" y="587.0">Concurrency.Sync.SharedArrayTest</node>
+    <node x="350.0" y="127.0">DesignPatterns.Decorator.Circle</node>
+    <node x="10.0" y="104.0">DesignPatterns.Decorator.ShapeDecorator</node>
+    <node x="390.0" y="754.0">Array.Arrays</node>
+    <node x="214.5" y="0.0">DesignPatterns.Decorator.Shape</node>
+    <node x="679.0" y="587.0">Concurrency.SyncAdvanced.BufferTest</node>
+    <node x="0.0" y="398.0">Concurrency.Executors.PrintTask</node>
+    <node x="431.0" y="398.0">Concurrency.Sync.ArrayWriter</node>
+    <node x="213.0" y="587.0">DesignPatterns.Decorator.DecoratorPatternDemo</node>
+    <node x="195.0" y="754.0">Array.Arraypt2</node>
+    <node x="0.0" y="754.0">Concurrency.Executors.Taskexecutor</node>
+    <node x="0.0" y="587.0">Concurrency.SyncAdvanced.Produttore</node>
+    <node x="681.0" y="398.0">Concurrency.SyncAdvanced.Consumatore</node>
+    <node x="506.0" y="0.0">Concurrency.Sync.SimpleArray</node>
+    <node x="210.0" y="127.0">DesignPatterns.Decorator.Rectangle</node>
+    <node x="585.0" y="754.0">Array.Types</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="DesignPatterns.Decorator.RedShapeDecorator" target="DesignPatterns.Decorator.ShapeDecorator">
+      <point x="0.0" y="-49.5" />
+      <point x="0.0" y="50.0" />
+    </edge>
+    <edge source="DesignPatterns.Decorator.ShapeDecorator" target="DesignPatterns.Decorator.Shape">
+      <point x="0.0" y="-50.0" />
+      <point x="100.0" y="79.0" />
+      <point x="233.0" y="79.0" />
+      <point x="-37.0" y="27.0" />
+    </edge>
+    <edge source="DesignPatterns.Decorator.Rectangle" target="DesignPatterns.Decorator.Shape">
+      <point x="0.0" y="-27.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="DesignPatterns.Decorator.Circle" target="DesignPatterns.Decorator.Shape">
+      <point x="0.0" y="-27.0" />
+      <point x="405.5" y="79.0" />
+      <point x="307.0" y="79.0" />
+      <point x="37.0" y="27.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.9" x="591.2222222222222" y="484.22222222222223" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
